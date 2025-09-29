@@ -1,4 +1,4 @@
-# Car-Click-Off
+# Car Click-Off - *Personal Project*
 ![car_game_labeled_pic](https://github.com/ibyteibit/Car-Click-Off/blob/main/pics/CarGame.png)
 
 
