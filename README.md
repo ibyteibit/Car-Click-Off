@@ -1,5 +1,5 @@
 # Car-Click-Off
-![car_game_labeled_pic](https://github.com/ibyteibit/Car-Click-Off/blob/main/CarGame.png)
+![car_game_labeled_pic](https://github.com/ibyteibit/Car-Click-Off/blob/main/pics/CarGame.png)
 
 
 ## Description
@@ -38,3 +38,5 @@
 - Implemented Arduino PWM and motor drivers to adjust fan speed based on how rapidly a button is pressed
 - Engineered an IR tripwire on either end of the track that triggers the winner’s LED and buzzer
 - Taught myself to use a miter saw for the woodwork, and coordinated two friends who wrote the C++ code
+
+![soldering](https://github.com/ibyteibit/Car-Click-Off/blob/main/pics/Soldering.jpg)
