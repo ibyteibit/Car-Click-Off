@@ -1,6 +1,7 @@
 # Car Click-Off - *Personal Project (created for High School Computer Club)*
 ![car_game_labeled_pic](https://github.com/ibyteibit/Car-Click-Off/blob/main/pics/CarGame.png)
-
+<br></br>
+**Project Dates:** Aug 2023 - Nov 2023
 
 ## Description
 - A two-player rapid-fire clicking game featuring a car that rides along a wooden track
